@@ -22,7 +22,7 @@ opencode
 
 ## Want more?
 
-**SYNAPSE Pro ($10)** adds:
+**SYNAPSE Pro ($10 one-time)** adds:
 - @research agent (best practices + edge cases)
 - @grok-debater agent (adversarial review — finds what others missed)
 - @browser-agent (for web/Gumroad tasks)
@@ -30,7 +30,7 @@ opencode
 - Auto PLAN.md generator
 - 5 specialized prompts total
 
-→ [Get SYNAPSE Pro on Gumroad](https://mahmoud.gumroad.com/l/synapse)
+→ [Get SYNAPSE Pro on Gumroad](https://bidkineg-creator.gumroad.com/l/synapse)
 
 ## License
 
